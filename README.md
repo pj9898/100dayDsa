@@ -1,2 +1,2 @@
 # 100dayDsa
-taking 100 days daily dsa coding challenge starting from 13-Sep-2024
+taking 100 days daily dsa coding challenge starting from 1-Oct-2024
